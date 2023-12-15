@@ -1,0 +1,7 @@
+1) Customer info management
+2) Vehicle management (analytically)
+3) Vehicle repair management (repair costs & shop profit)
+4) Analysis of parts required for each repair
+5) Cost analysis for each repair
+6) Repair shop expenses (DEH, OTE, rent, ...)
+7) Other expenses (costs, expenses, profit, revenue)
